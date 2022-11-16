@@ -32,3 +32,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=914599868
  pada exporter android, lokasikan instalasi android sdk yang baru saja di install (C:\Program Files (x86)\Android\android-sdk)
 12. restart komputer
 13. coba build kembali
+
+
+update cara install :
+http://library.clickteam.com/guides-tips/how-to-install-android-sdk-for-fusion/
